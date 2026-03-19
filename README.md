@@ -48,7 +48,7 @@
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
 <!-- GitHub Activity Graph -->
-[![Mike's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=johnmikx&hide_border=true&area=true&line=808080&point=00ff00&area_color=ccffcc&bg_color=0D1117&color=58A6FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mike's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mikeascendx&hide_border=true&area=true&line=808080&point=00ff00&area_color=ccffcc&bg_color=0D1117&color=58A6FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
@@ -61,13 +61,13 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=johnmikx&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mikeascendx&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="400" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnmikx&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeascendx&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmikx&layout=compact&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="Top Languages" width="300" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeascendx&layout=compact&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="Top Languages" width="300" />
       </td>
     </tr>
   </table>
@@ -86,7 +86,7 @@ If you're seeking to build stellar solutions, explore new frontiers in tech, or 
 
 - 📡 **StarMail**: [johnmikeasuncion17@gmail.com](mailto:johnmikeasuncion17@gmail.com)  
 - 🛸 **LinkedIn Command Center**: [Visit HQ](https://www.linkedin.com/in/john-mike-asuncion-a44232320/)  
-- 🌠 **GitHub Nebula**: [My Code Galaxy](https://github.com/johnmikx)  
+- 🌠 **GitHub Nebula**: [My Code Galaxy](https://github.com/mikeascendx)  
 - 🌌 **DataCamp Archives**: [View Records](https://www.datacamp.com/portfolio/johnmikeasuncion17)  
 - 🛰️ **Social Orbit**: [Facebook Terminal](https://www.facebook.com/mikekaizennn)
 
@@ -121,7 +121,7 @@ See you in the void 🚀
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=johnmikx&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mikeascendx&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer"/>
