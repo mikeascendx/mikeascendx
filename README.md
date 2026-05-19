@@ -101,6 +101,6 @@
 - **LinkedIn:** [linkedin.com/in/mikeascendx](https://www.linkedin.com/in/mikeascendx/)
 - **GitHub:** [github.com/mikeascendx](https://github.com/mikeascendx)
 - **DataCamp:** [datacamp.com/portfolio/johnmikeasuncion17](https://www.datacamp.com/portfolio/johnmikeasuncion17)
-- **Facebook:** [facebook.com/mikeascendx](https://www.facebook.com/mikeascendx)
+- **Facebook:** [facebook.com/mikekaizennn](https://www.facebook.com/mikekaizennn)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer"/>
