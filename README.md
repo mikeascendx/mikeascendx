@@ -121,12 +121,14 @@ Full case list on the [portfolio](https://mikeascend.pages.dev).
 
 ## Connect
 
-- **Portfolio:** [mikeascend.pages.dev](https://mikeascend.pages.dev)
-- **Email:** [johnmikeasuncion17@gmail.com](mailto:johnmikeasuncion17@gmail.com)
-- **LinkedIn:** [linkedin.com/in/mikeascendx](https://www.linkedin.com/in/mikeascendx/)
-- **X:** [x.com/mikeascendx](https://x.com/mikeascendx)
-- **DataCamp:** [datacamp.com/portfolio/johnmikeasuncion17](https://www.datacamp.com/portfolio/johnmikeasuncion17)
-- **Facebook:** [facebook.com/mikekaizennn](https://www.facebook.com/mikekaizennn)
+<div align="center">
+  <a href="https://mikeascend.pages.dev"><img src="https://img.shields.io/badge/Portfolio-C9A85C?style=for-the-badge&logo=astro&logoColor=black"/></a>
+  <a href="mailto:johnmikeasuncion17@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mikeascendx/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/mikeascendx"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.datacamp.com/portfolio/johnmikeasuncion17"><img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black"/></a>
+  <a href="https://www.facebook.com/mikekaizennn"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212907120-c72ded50-c4ef-4d96-8a23-e4b69757a907.jpg" width="200" />
