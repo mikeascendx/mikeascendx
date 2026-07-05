@@ -103,6 +103,12 @@ Full case list on the [portfolio](https://mikeascend.pages.dev).
   <img src="https://img.shields.io/badge/Git%2FGitHub-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
+## Credentials
+
+- **Certification:** AI Fundamentals · DataCamp · Jan 2025 · [verify](https://www.datacamp.com/skill-verification/AIF0027630990889)
+- **Education:** Imperium Academy, Business & Entrepreneurship (2025-Present) · Polytechnic University of the Philippines, Computer Engineering (2024-2025)
+- **Community:** DataCamp Donates Scholar · Google Developer Groups on Campus PUP, Data & ML Team Cadet · AWS Cloud Club PUP, Data Technologies · PUP Manila Microsoft Student Community, Junior Web Developer
+
 ## GitHub Stats
 
 <div align="center">
