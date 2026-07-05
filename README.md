@@ -17,7 +17,7 @@
 <p align="center"><i>"Sometimes life is about risking everything for a dream, no one can see but you."</i></p>
 
 - **Role:** AI Generalist / AI Operator · Prompt, Context, and Loop Engineer · Manila, PH · Available for new projects
-- **Experience:** AI-Assisted Developer @ Krüershof Digital, former Dietz Webdesign (Remote, Germany) · 10+ production client sites shipped in one-week turnarounds
+- **Experience:** AI-Assisted Developer @ Krüershof Digital, former Dietz Webdesign (Remote, Germany) · 10+ production client sites shipped, many in one-week turnarounds
 - **How I work:** AI-augmented full lifecycle: design, build, deploy, DNS/SSL/email infrastructure, SEO. Claude Code, ChatGPT, and Gemini cut my dev time by ~50%.
 - **Mission:** Ship real things. Improve 1% daily. Go further.
 
@@ -35,7 +35,7 @@ Full case list on the [portfolio](https://mikeascend.pages.dev).
 | Schweriner Goldankauf | Buy & Sell | HTML · CSS · JS · Google Ads API | [schweriner-goldankauf.de](https://schweriner-goldankauf.de) |
 | NP Trucks | Automotive, NRW | HTML · CSS · JS · PHP | [np-trucks.de](https://np-trucks.de) |
 | FlashyVendor | Jewelry Shop | Shopify Liquid · CSS · JS | [flashyvendor.com](https://flashyvendor.com) |
-| Renate Reimann | Health, Berlin | HTML · CSS · JS | [renatereimann.de](https://renatereimann.de) |
+| Renate Reimann | Health, Berlin | HTML · CSS · JS | [renatereimann.de](https://www.renatereimann.de) |
 | Das Gold und Antikhaus | Gold & Antiques | HTML · CSS · JS | [dasgoldundantikhaus.de](https://dasgoldundantikhaus.de) |
 | Pala Realty | Real Estate | Veo · Gemini · AI Image-Video | [pala-real-estate.com](https://pala-real-estate.com) |
 | Steven Noora | Portfolio | Astro · TS · CSS | [stevennoora.pages.dev](https://stevennoora.pages.dev) |
