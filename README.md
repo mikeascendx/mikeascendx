@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C9A85C&center=true&vCenter=true&width=550&lines=AI+Generalist;AI+Operator;Prompt+%26+Context+Engineer;Agentic+AI;Building+at+the+AI+Frontier;The+Man+in+the+Arena" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C9A85C&center=true&vCenter=true&width=550&lines=AI+Generalist;AI+Operator;Prompt%2C+Context%2C+and+Loop+Engineer;Agentic+AI;Building+at+the+AI+Frontier;The+Man+in+the+Arena" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 
 <p align="center"><i>"Sometimes life is about risking everything for a dream, no one can see but you."</i></p>
 
-- **Role:** AI Generalist / AI Operator · Manila, PH · Available for new projects
+- **Role:** AI Generalist / AI Operator · Prompt, Context, and Loop Engineer · Manila, PH · Available for new projects
 - **Experience:** AI-Assisted Developer @ Krüershof Digital, former Dietz Webdesign (Remote, Germany) · 10+ production client sites shipped in one-week turnarounds
 - **How I work:** AI-augmented full lifecycle: design, build, deploy, DNS/SSL/email infrastructure, SEO. Claude Code, ChatGPT, and Gemini cut my dev time by ~50%.
 - **Mission:** Ship real things. Improve 1% daily. Go further.
