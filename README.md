@@ -10,6 +10,8 @@
   <a href="https://mikeascend.pages.dev"><img src="https://img.shields.io/badge/Portfolio-mikeascend.pages.dev-C9A85C?style=for-the-badge&logo=astro&logoColor=black"/></a>
 </div>
 
+<br/>
+
 <p align="center">
   <a href="https://ko-fi.com/mikeascendx"><img src="https://storage.ko-fi.com/cdn/kofi3.png?v=6" alt="Buy me a coffee at ko-fi.com" height="42"></a>
 </p>
