@@ -128,6 +128,7 @@ Full case list on the [portfolio](https://mikeascend.pages.dev).
   <a href="https://x.com/mikeascendx"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.datacamp.com/portfolio/johnmikeasuncion17"><img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black"/></a>
   <a href="https://www.facebook.com/mikekaizennn"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://ko-fi.com/mikeascendx"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"/></a>
 </div>
 
 <div align="center">
