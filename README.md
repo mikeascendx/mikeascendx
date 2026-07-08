@@ -8,6 +8,7 @@
 
 <div align="center">
   <a href="https://mikeascend.pages.dev"><img src="https://img.shields.io/badge/Portfolio-mikeascend.pages.dev-C9A85C?style=for-the-badge&logo=astro&logoColor=black"/></a>
+  <a href="https://ko-fi.com/mikeascendx"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-1f2328?style=for-the-badge&logo=kofi&logoColor=white"/></a>
 </div>
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
