@@ -23,8 +23,8 @@
 <p align="center"><i>"Sometimes life is about risking everything for a dream, no one can see but you."</i></p>
 
 - **Role:** AI Generalist / AI Operator · Prompt, Context, and Loop Engineer · Manila, PH · Available for new projects
-- **Experience:** AI-Assisted Developer @ Krüershof Digital, former Dietz Webdesign (Remote, Germany) · 10+ production client sites shipped, many in one-week turnarounds
-- **How I work:** AI-augmented full lifecycle: design, build, deploy, DNS/SSL/email infrastructure, SEO. Claude Code, ChatGPT, and Gemini cut my dev time by ~50%.
+- **Experience:** _AI Software Developer | AI Operator_ @ **LeadUpFront** (Manila, PH · Hybrid), building an AI sales agent and operations console for RawLens PH on Next.js + Supabase · _AI-Assisted Developer_ @ **Krüershof Digital** (former Dietz Webdesign, Remote · Germany), 10+ production client sites shipped
+- **How I work:** AI-augmented full lifecycle: design, build, deploy, DNS/SSL/email infrastructure, SEO. Claude Code, ChatGPT, and Gemini cut my dev time by ~50%. Now also shipping production AI agents and full-stack features on Next.js, Supabase, and Vercel.
 - **Mission:** Ship real things. Improve 1% daily. Go further.
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
@@ -48,6 +48,7 @@ Full case list on the [portfolio](https://mikeascend.pages.dev).
 
 **Systems**
 
+- **[The Elite Triad](https://the-elite-triad.pages.dev)** · a multi-model orchestration layer for Claude Code: frontier models collaborate by role, with generator-verifier separation, bounded escalation, and a self-tuning routing policy, drawn as a live cyanotype schematic. Claude Code · Fable 5 · Opus 4.8 · Sonnet 5.
 - **[Krüershof Workflow System](https://dietz-workflow-system.pages.dev)** · a 36-node production workflow system, drawn as a live engineering schematic, governing every client project at Krüershof Digital. Claude Code · Vite · React.
 
 **Experiments**
@@ -87,6 +88,7 @@ Full case list on the [portfolio](https://mikeascend.pages.dev).
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </div>
 
 **SEO / Search**
