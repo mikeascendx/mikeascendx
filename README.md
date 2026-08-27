@@ -18,6 +18,8 @@ Full case list on the [portfolio].
 
 | Project | Type | Live |
 | --- | --- | --- |
+| RawLens PH Operations Platform | Philippines · Business Operations System | Private · [RawLens PH] |
+| RawLens PH Customer Portal | Philippines · Customer Booking Portal | Private · [RawLens PH] |
 | Krüershof Digital | Germany · Web Design Agency | [kruershof-digital.de] |
 | Autocenter Mülheim Göksu | Germany · Automotive | [ac-o.de] |
 | Dachdecker Wittler | Germany · Roofing & Local SEO | [dachdecker-wittler.de] |
@@ -38,6 +40,7 @@ flowchart LR
     john["John Mike Asuncion<br/><i>AI Operator · Software Builder</i>"]
     kruershof["Krüershof Digital<br/><i>Germany · Web Design Agency</i>"]
     independent["Independent Work"]
+    rawlens["RawLens PH<br/><i>Philippines · Photography</i>"]
     dietz["Dietz Webdesign<br/><i>Predecessor · Original agency</i>"]
 
     john --> kruershof
@@ -56,15 +59,18 @@ flowchart LR
     kruershof --> goldantik["Das Gold und Antikhaus"]
     kruershof --> realty["Pala Realty"]
 
+    independent --> rawlens
     independent --> steven["Steven Noora<br/><i>Philippines · Portfolio</i>"]
     independent --> flashy["FlashyVendor<br/><i>USA · Jewelry</i>"]
+    rawlens --> operations["Operations Platform<br/><i>Private business system</i>"]
+    rawlens --> portal["Customer Portal<br/><i>Private booking system</i>"]
 
     classDef root fill:#f5f5f5,stroke:#111111,color:#111111,stroke-width:2px
     classDef branch fill:#bdbdbd,stroke:#111111,color:#111111,stroke-width:2px
     classDef project fill:#171717,stroke:#8b8b8b,color:#f5f5f5
     class john root
-    class kruershof,independent branch
-    class dietz,autocenter,dachdecker,smaragd,schweriner,nptrucks,renate,artwussow,pala,goldantik,realty,steven,flashy project
+    class kruershof,independent,rawlens branch
+    class dietz,autocenter,dachdecker,smaragd,schweriner,nptrucks,renate,artwussow,pala,goldantik,realty,steven,flashy,operations,portal project
     linkStyle default stroke:#8b8b8b
 ```
 
@@ -100,6 +106,7 @@ flowchart LR
 </p>
 
 [Portfolio]: https://mikeascend.pages.dev
+[RawLens PH]: https://www.instagram.com/rawlensph/
 [kruershof-digital.de]: https://www.kruershof-digital.de/
 [ac-o.de]: https://www.ac-o.de/
 [dachdecker-wittler.de]: https://www.dachdecker-wittler.de/
