@@ -80,8 +80,6 @@ flowchart LR
 | :---: | :---: |
 | <img src="https://user-images.githubusercontent.com/74038190/212907120-c72ded50-c4ef-4d96-8a23-e4b69757a907.jpg" alt="Developer at work" width="260" /> | <img src="https://camo.githubusercontent.com/8778ac1f5cb4456a2cd55438fd4f62d5b6d7c3dc2ab44549b1a9b50c08a40386/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d696b65617363656e6478267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" alt="GitHub Streak" width="500" /> |
 
-<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" alt="" />
-
 <p align="center">
   <img
     src="https://gitlyy.vercel.app/api/contribution?username=mikeascendx&amp;hide_border=true"
