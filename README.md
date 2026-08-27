@@ -83,9 +83,31 @@ flowchart LR
 
 ## GitHub Stats
 
-| Building | GitHub Streak |
-| :---: | :---: |
-| <img src="https://user-images.githubusercontent.com/74038190/212907120-c72ded50-c4ef-4d96-8a23-e4b69757a907.jpg" alt="Developer at work" width="260" /> | <img src="https://camo.githubusercontent.com/8778ac1f5cb4456a2cd55438fd4f62d5b6d7c3dc2ab44549b1a9b50c08a40386/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d696b65617363656e6478267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" alt="GitHub Streak" width="500" /> |
+<table>
+  <thead>
+    <tr>
+      <th align="center">Building</th>
+      <th align="center">GitHub Streak</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <table>
+          <tr>
+            <td align="center"><img src="https://user-images.githubusercontent.com/74038190/212907120-c72ded50-c4ef-4d96-8a23-e4b69757a907.jpg" alt="Developer illustration one" width="120" /></td>
+            <td align="center"><img src="https://user-images.githubusercontent.com/74038190/216318921-21620ac8-e31f-42b0-b7dd-80ee2f424c2f.png" alt="Developer illustration two" width="120" /></td>
+          </tr>
+          <tr>
+            <td align="center"><img src="https://user-images.githubusercontent.com/74038190/215768933-8904f263-b421-4fd1-a5b0-83c1f07df757.png" alt="Developer illustration three" width="120" /></td>
+            <td align="center"><img src="https://user-images.githubusercontent.com/74038190/214373791-293fa4f8-9ebd-4de5-9cb5-56033dc3d6ce.jpg" alt="Developer illustration four" width="120" /></td>
+          </tr>
+        </table>
+      </td>
+      <td align="center"><img src="https://camo.githubusercontent.com/8778ac1f5cb4456a2cd55438fd4f62d5b6d7c3dc2ab44549b1a9b50c08a40386/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d696b65617363656e6478267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" alt="GitHub Streak" width="500" /></td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="center">
   <img
