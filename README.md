@@ -38,11 +38,11 @@ Full case list on the [portfolio].
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img
-      src="https://streak-stats.demolab.com?user=mikeascendx&amp;background=000000&amp;stroke=333333&amp;ring=FFFFFF&amp;fire=FFFFFF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=FFFFFF&amp;sideLabels=FFFFFF&amp;dates=BFBFBF&amp;hide_border=true"
-      alt="GitHub Streak"
-      width="500"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikeascendx&amp;theme=github_dark&amp;title_color=FFFFFF&amp;text_color=FFFFFF&amp;bg_color=000000&amp;border_color=000000&amp;icon_color=FFFFFF"
+      alt="GitHub Stats"
+      width="420"
     />
   </a>
 </p>
