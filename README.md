@@ -23,12 +23,12 @@
 | Pala Realty | Germany · Real Estate | [pala-real-estate.com] |
 | Smaragdblüte | Germany · Travel Tech | [smaragdbluete.de] |
 | ARTWussow | Germany · Art & Gallery | [artwussow.de] |
-| Autocenter Mülheim Göksu | Germany · Automotive | [ac-o.de] |
+| Autocenter Mülheim Göksu | Germany · Automotive Sales & Services | [ac-o.de] |
 | FlashyVendor | USA · Luxury Jewelry | [flashyvendor.com] |
 | Schweriner Goldankauf | Germany · Gold Buying, Selling & Antiques | [schweriner-goldankauf.de] |
-| Dachdecker Wittler | Germany · Roofing | [dachdecker-wittler.de] |
-| Renate Reimann Energiemedizin | Germany · Health | [renatereimann.de] |
-| NP Trucks | Germany · Automotive | [np-trucks.de] |
+| Dachdecker Wittler | Germany · Roofing Services | [dachdecker-wittler.de] |
+| Renate Reimann Energiemedizin | Germany · Health Services | [renatereimann.de] |
+| NP Trucks | Germany · Automotive Sales & Services | [np-trucks.de] |
 | Dietz Webdesign | Germany · Web Design Agency | [dietz-webdesign.de] |
 | Das Gold und Antikhaus | Germany · Gold Buying, Selling & Antiques | [dasgoldundantikhaus.de] |
 | Steven Noora | Philippines · Filmography Portfolio | [stevennoora.pages.dev] |
@@ -81,12 +81,10 @@ flowchart LR
 
 **[The Elite Triad]** — A multi-model orchestration layer built around specialized roles, generator-verifier separation, bounded escalation, and adaptive routing.
 
-## GitHub Stats
-
 <table>
   <thead>
     <tr>
-      <th align="center">Building</th>
+      <th align="center"></th>
       <th align="center">GitHub Streak</th>
     </tr>
   </thead>
