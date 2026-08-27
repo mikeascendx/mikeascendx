@@ -2,7 +2,7 @@
 
 AI operator and software builder in Manila. I design, build, and ship business web solutions and production AI systems.
 
-[Portfolio](https://mikeascend.pages.dev) / [Email](mailto:johnmikeasuncion17@gmail.com) / [X / Twitter](https://x.com/mikeascendx)
+[Portfolio](https://mikeascend.pages.dev) / [Email](mailto:johnmikeasuncion17@gmail.com) / [X/Twitter](https://x.com/mikeascendx)
 
 ---
 
