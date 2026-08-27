@@ -16,6 +16,23 @@
 
 Full case list on the [portfolio].
 
+| Project | Type | Live |
+| --- | --- | --- |
+| Krüershof Digital | Germany · Web Design Agency | [kruershof-digital.de] |
+| Autocenter Mülheim Göksu | Germany · Automotive | [ac-o.de] |
+| Dachdecker Wittler | Germany · Roofing & Local SEO | [dachdecker-wittler.de] |
+| Smaragdblüte | Germany · Travel Tech | [smaragdbluete.de] |
+| Schweriner Goldankauf | Germany · Buy & Sell | [schweriner-goldankauf.de] |
+| Steven Noora | Philippines · Portfolio | [stevennoora.pages.dev] |
+| NP Trucks | Germany · Automotive | [np-trucks.de] |
+| Renate Reimann Energiemedizin | Germany · Health | [renatereimann.de] |
+| ARTWussow | Germany · Art & Gallery | [artwussow.de] |
+| FlashyVendor | USA · Jewelry | [flashyvendor.com] |
+| PALA Consulting Group | Germany · Business Consulting | [palagroup.de] |
+| Dietz Webdesign | Germany · Web Design Agency | [dietz-webdesign.de] |
+| Das Gold und Antikhaus | Germany · Gold & Antiques | [dasgoldundantikhaus.de] |
+| Pala Realty | Germany · Real Estate | [pala-real-estate.com] |
+
 ```mermaid
 flowchart LR
     john["John Mike Asuncion<br/><i>AI Operator · Software Builder</i>"]
@@ -51,23 +68,6 @@ flowchart LR
     linkStyle default stroke:#8b8b8b
 ```
 
-| Project | Type | Live |
-| --- | --- | --- |
-| Krüershof Digital | Germany · Web Design Agency | [kruershof-digital.de] |
-| Autocenter Mülheim Göksu | Germany · Automotive | [ac-o.de] |
-| Dachdecker Wittler | Germany · Roofing & Local SEO | [dachdecker-wittler.de] |
-| Smaragdblüte | Germany · Travel Tech | [smaragdbluete.de] |
-| Schweriner Goldankauf | Germany · Buy & Sell | [schweriner-goldankauf.de] |
-| Steven Noora | Philippines · Portfolio | [stevennoora.pages.dev] |
-| NP Trucks | Germany · Automotive | [np-trucks.de] |
-| Renate Reimann Energiemedizin | Germany · Health | [renatereimann.de] |
-| ARTWussow | Germany · Art & Gallery | [artwussow.de] |
-| FlashyVendor | USA · Jewelry | [flashyvendor.com] |
-| PALA Consulting Group | Germany · Business Consulting | [palagroup.de] |
-| Dietz Webdesign | Germany · Web Design Agency | [dietz-webdesign.de] |
-| Das Gold und Antikhaus | Germany · Gold & Antiques | [dasgoldundantikhaus.de] |
-| Pala Realty | Germany · Real Estate | [pala-real-estate.com] |
-
 ## Systems
 
 **[Krüershof Workflow System]** — A 36-node production workflow governing client intake, routing, quality control, and delivery.
@@ -83,12 +83,7 @@ flowchart LR
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" alt="" />
 
 <p align="center">
-  <a href="https://ko-fi.com/mikeascendx">
-    <img
-      src="https://img.shields.io/badge/Buy_me_a_coffee-000000?style=flat-square&amp;logo=kofi&amp;logoColor=white"
-      alt="Buy me a coffee"
-    />
-  </a>
+  <a href="https://ko-fi.com/mikeascendx"><img src="https://storage.ko-fi.com/cdn/kofi3.png?v=6" alt="Buy me a coffee at ko-fi.com" height="42"></a>
 </p>
 
 <p align="center">
