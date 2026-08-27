@@ -14,24 +14,99 @@
 
 ## Business Web Solutions
 
-| Project | Type | Live |
-| --- | --- | --- |
-| RawLens PH Operations Platform | Philippines · Business Operations System | Private · [RawLens PH] |
-| RawLens PH Customer Portal | Philippines · Customer Booking Portal | Private · [RawLens PH] |
-| Krüershof Digital | Germany · Web Design Agency | [kruershof-digital.de] |
-| PALA Consulting Group | Germany · Business Consulting | [palagroup.de] |
-| Pala Realty | Germany · Real Estate | [pala-real-estate.com] |
-| Smaragdblüte | Germany · Travel Tech | [smaragdbluete.de] |
-| ARTWussow | Germany · Art & Gallery | [artwussow.de] |
-| Autocenter Mülheim Göksu | Germany · Automotive Sales & Services | [ac-o.de] |
-| FlashyVendor | USA · Luxury Jewelry | [flashyvendor.com] |
-| Schweriner Goldankauf | Germany · Gold Buying, Selling & Antiques | [schweriner-goldankauf.de] |
-| Dachdecker Wittler | Germany · Roofing Services | [dachdecker-wittler.de] |
-| Renate Reimann Energiemedizin | Germany · Health Services | [renatereimann.de] |
-| NP Trucks | Germany · Automotive Sales & Services | [np-trucks.de] |
-| Dietz Webdesign | Germany · Web Design Agency | [dietz-webdesign.de] |
-| Das Gold und Antikhaus | Germany · Gold Buying, Selling & Antiques | [dasgoldundantikhaus.de] |
-| Steven Noora | Philippines · Filmography Portfolio | [stevennoora.pages.dev] |
+<div align="center">
+  <table align="center">
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Type</th>
+        <th>Live</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="left">RawLens PH Operations Platform</td>
+        <td align="left">Philippines · Business Operations System</td>
+        <td align="left">Private · <a href="https://www.instagram.com/rawlensph/">RawLens PH</a></td>
+      </tr>
+      <tr>
+        <td align="left">RawLens PH Customer Portal</td>
+        <td align="left">Philippines · Customer Booking Portal</td>
+        <td align="left">Private · <a href="https://www.instagram.com/rawlensph/">RawLens PH</a></td>
+      </tr>
+      <tr>
+        <td align="left">Krüershof Digital</td>
+        <td align="left">Germany · Web Design Agency</td>
+        <td align="left"><a href="https://www.kruershof-digital.de/">kruershof-digital.de</a></td>
+      </tr>
+      <tr>
+        <td align="left">PALA Consulting Group</td>
+        <td align="left">Germany · Business Consulting</td>
+        <td align="left"><a href="https://palagroup.de">palagroup.de</a></td>
+      </tr>
+      <tr>
+        <td align="left">Pala Realty</td>
+        <td align="left">Germany · Real Estate</td>
+        <td align="left"><a href="https://pala-real-estate.com">pala-real-estate.com</a></td>
+      </tr>
+      <tr>
+        <td align="left">Smaragdblüte</td>
+        <td align="left">Germany · Travel Tech</td>
+        <td align="left"><a href="https://www.smaragdbluete.de/">smaragdbluete.de</a></td>
+      </tr>
+      <tr>
+        <td align="left">ARTWussow</td>
+        <td align="left">Germany · Art &amp; Gallery</td>
+        <td align="left"><a href="https://www.artwussow.de">artwussow.de</a></td>
+      </tr>
+      <tr>
+        <td align="left">Autocenter Mülheim Göksu</td>
+        <td align="left">Germany · Automotive Sales &amp; Services</td>
+        <td align="left"><a href="https://www.ac-o.de/">ac-o.de</a></td>
+      </tr>
+      <tr>
+        <td align="left">FlashyVendor</td>
+        <td align="left">USA · Luxury Jewelry</td>
+        <td align="left"><a href="https://flashyvendor.com">flashyvendor.com</a></td>
+      </tr>
+      <tr>
+        <td align="left">Schweriner Goldankauf</td>
+        <td align="left">Germany · Gold Buying, Selling &amp; Antiques</td>
+        <td align="left"><a href="https://schweriner-goldankauf.de">schweriner-goldankauf.de</a></td>
+      </tr>
+      <tr>
+        <td align="left">Dachdecker Wittler</td>
+        <td align="left">Germany · Roofing Services</td>
+        <td align="left"><a href="https://www.dachdecker-wittler.de/">dachdecker-wittler.de</a></td>
+      </tr>
+      <tr>
+        <td align="left">Renate Reimann Energiemedizin</td>
+        <td align="left">Germany · Health Services</td>
+        <td align="left"><a href="https://www.renatereimann.de">renatereimann.de</a></td>
+      </tr>
+      <tr>
+        <td align="left">NP Trucks</td>
+        <td align="left">Germany · Automotive Sales &amp; Services</td>
+        <td align="left"><a href="https://www.np-trucks.de">np-trucks.de</a></td>
+      </tr>
+      <tr>
+        <td align="left">Dietz Webdesign</td>
+        <td align="left">Germany · Web Design Agency</td>
+        <td align="left"><a href="https://www.dietz-webdesign.de/">dietz-webdesign.de</a></td>
+      </tr>
+      <tr>
+        <td align="left">Das Gold und Antikhaus</td>
+        <td align="left">Germany · Gold Buying, Selling &amp; Antiques</td>
+        <td align="left"><a href="https://dasgoldundantikhaus.de">dasgoldundantikhaus.de</a></td>
+      </tr>
+      <tr>
+        <td align="left">Steven Noora</td>
+        <td align="left">Philippines · Filmography Portfolio</td>
+        <td align="left"><a href="https://stevennoora.pages.dev">stevennoora.pages.dev</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ```mermaid
 flowchart LR
@@ -126,20 +201,5 @@ flowchart LR
   />
 </p>
 
-[RawLens PH]: https://www.instagram.com/rawlensph/
-[kruershof-digital.de]: https://www.kruershof-digital.de/
-[ac-o.de]: https://www.ac-o.de/
-[dachdecker-wittler.de]: https://www.dachdecker-wittler.de/
-[smaragdbluete.de]: https://www.smaragdbluete.de/
-[schweriner-goldankauf.de]: https://schweriner-goldankauf.de
-[stevennoora.pages.dev]: https://stevennoora.pages.dev
-[np-trucks.de]: https://www.np-trucks.de
-[renatereimann.de]: https://www.renatereimann.de
-[artwussow.de]: https://www.artwussow.de
-[flashyvendor.com]: https://flashyvendor.com
-[palagroup.de]: https://palagroup.de
-[dietz-webdesign.de]: https://www.dietz-webdesign.de/
-[dasgoldundantikhaus.de]: https://dasgoldundantikhaus.de
-[pala-real-estate.com]: https://pala-real-estate.com
 [Krüershof Workflow System]: https://dietz-workflow-system.pages.dev
 [The Elite Triad]: https://the-elite-triad.pages.dev
