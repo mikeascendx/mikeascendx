@@ -83,6 +83,14 @@ flowchart LR
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" alt="" />
 
 <p align="center">
+  <img
+    src="https://gitlyy.vercel.app/api/contribution?username=mikeascendx&amp;hide_border=true"
+    alt="GitHub contribution graph"
+    width="100%"
+  />
+</p>
+
+<p align="center">
   <a href="https://ko-fi.com/mikeascendx"><img src="https://storage.ko-fi.com/cdn/kofi3.png?v=6" alt="Buy me a coffee at ko-fi.com" height="42"></a>
 </p>
 
