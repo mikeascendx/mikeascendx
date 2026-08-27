@@ -19,51 +19,52 @@
 | RawLens PH Operations Platform | Philippines · Business Operations System | Private · [RawLens PH] |
 | RawLens PH Customer Portal | Philippines · Customer Booking Portal | Private · [RawLens PH] |
 | Krüershof Digital | Germany · Web Design Agency | [kruershof-digital.de] |
-| Autocenter Mülheim Göksu | Germany · Automotive | [ac-o.de] |
-| Dachdecker Wittler | Germany · Roofing & Local SEO | [dachdecker-wittler.de] |
-| Smaragdblüte | Germany · Travel Tech | [smaragdbluete.de] |
-| Schweriner Goldankauf | Germany · Buy & Sell | [schweriner-goldankauf.de] |
-| Steven Noora | Philippines · Portfolio | [stevennoora.pages.dev] |
-| NP Trucks | Germany · Automotive | [np-trucks.de] |
-| Renate Reimann Energiemedizin | Germany · Health | [renatereimann.de] |
-| ARTWussow | Germany · Art & Gallery | [artwussow.de] |
-| FlashyVendor | USA · Jewelry | [flashyvendor.com] |
 | PALA Consulting Group | Germany · Business Consulting | [palagroup.de] |
-| Dietz Webdesign | Germany · Web Design Agency | [dietz-webdesign.de] |
-| Das Gold und Antikhaus | Germany · Gold & Antiques | [dasgoldundantikhaus.de] |
 | Pala Realty | Germany · Real Estate | [pala-real-estate.com] |
+| Smaragdblüte | Germany · Travel Tech | [smaragdbluete.de] |
+| ARTWussow | Germany · Art & Gallery | [artwussow.de] |
+| Autocenter Mülheim Göksu | Germany · Automotive | [ac-o.de] |
+| FlashyVendor | USA · Luxury Jewelry | [flashyvendor.com] |
+| Schweriner Goldankauf | Germany · Gold Buying, Selling & Antiques | [schweriner-goldankauf.de] |
+| Dachdecker Wittler | Germany · Roofing | [dachdecker-wittler.de] |
+| Renate Reimann Energiemedizin | Germany · Health | [renatereimann.de] |
+| NP Trucks | Germany · Automotive | [np-trucks.de] |
+| Dietz Webdesign | Germany · Web Design Agency | [dietz-webdesign.de] |
+| Das Gold und Antikhaus | Germany · Gold Buying, Selling & Antiques | [dasgoldundantikhaus.de] |
+| Steven Noora | Philippines · Filmography Portfolio | [stevennoora.pages.dev] |
 
 ```mermaid
 flowchart LR
     john["John Mike Asuncion<br/><i>AI Operator · Software Builder</i>"]
-    kruershof["Krüershof Digital<br/><i>Germany · Web Design Agency</i>"]
     leadupfront["LeadUpFront<br/><i>Philippines · Growth & Business Development Systems Agency</i>"]
-    independent["Independent Work"]
     rawlens["RawLens PH<br/><i>Philippines · Photography</i>"]
+    kruershof["Krüershof Digital<br/><i>Germany · Web Design Agency</i>"]
+    independent["Independent Work"]
     dietz["Dietz Webdesign<br/><i>Predecessor · Original agency</i>"]
 
-    john --> kruershof
     john --> leadupfront
-    john --> independent
-    john --> dietz
-    dietz -.-> kruershof
-
-    kruershof --> autocenter["Autocenter Mülheim Göksu"]
-    kruershof --> dachdecker["Dachdecker Wittler"]
-    kruershof --> smaragd["Smaragdblüte"]
-    kruershof --> schweriner["Schweriner Goldankauf"]
-    kruershof --> nptrucks["NP Trucks"]
-    kruershof --> renate["Renate Reimann Energiemedizin"]
-    kruershof --> artwussow["ARTWussow"]
-    kruershof --> pala["PALA Consulting Group"]
-    kruershof --> goldantik["Das Gold und Antikhaus"]
-    kruershof --> realty["Pala Realty"]
-
     leadupfront --> rawlens
-    independent --> steven["Steven Noora<br/><i>Philippines · Portfolio</i>"]
-    independent --> flashy["FlashyVendor<br/><i>USA · Jewelry</i>"]
     rawlens --> operations["Operations Platform<br/><i>Private business system</i>"]
     rawlens --> portal["Customer Portal<br/><i>Private booking system</i>"]
+
+    john --> kruershof
+    kruershof --> pala["PALA Consulting Group"]
+    kruershof --> realty["Pala Realty"]
+    kruershof --> smaragd["Smaragdblüte"]
+    kruershof --> artwussow["ARTWussow"]
+    kruershof --> autocenter["Autocenter Mülheim Göksu"]
+    kruershof --> schweriner["Schweriner Goldankauf"]
+    kruershof --> dachdecker["Dachdecker Wittler"]
+    kruershof --> renate["Renate Reimann Energiemedizin"]
+    kruershof --> nptrucks["NP Trucks"]
+    kruershof --> goldantik["Das Gold und Antikhaus"]
+
+    john --> independent
+    independent --> flashy["FlashyVendor<br/><i>USA · Luxury Jewelry</i>"]
+    independent --> steven["Steven Noora<br/><i>Philippines · Filmography Portfolio</i>"]
+
+    john --> dietz
+    dietz -.-> kruershof
 
     classDef root fill:#f5f5f5,stroke:#111111,color:#111111,stroke-width:2px
     classDef branch fill:#bdbdbd,stroke:#111111,color:#111111,stroke-width:2px
