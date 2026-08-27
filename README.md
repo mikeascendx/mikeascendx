@@ -14,20 +14,20 @@ Full case list on the [portfolio].
 
 | Project | Type | Live |
 | --- | --- | --- |
-| Krüershof Digital | Web Design Agency | [kruershof-digital.de] |
-| Autocenter Mülheim Göksu | Automotive | [ac-o.de] |
-| Dachdecker Wittler | Roofing & Local SEO | [dachdecker-wittler.de] |
-| Smaragdblüte | Travel Tech | [smaragdbluete.de] |
-| Schweriner Goldankauf | Buy & Sell | [schweriner-goldankauf.de] |
-| Steven Noora | Portfolio | [stevennoora.pages.dev] |
-| NP Trucks | Automotive | [np-trucks.de] |
-| Renate Reimann Energiemedizin | Health | [renatereimann.de] |
-| ARTWussow | Art & Gallery | [artwussow.de] |
-| FlashyVendor | Jewelry | [flashyvendor.com] |
-| PALA Consulting Group | Business Consulting | [palagroup.de] |
-| Dietz Webdesign | Web Design Agency | [dietz-webdesign.de] |
-| Das Gold und Antikhaus | Gold & Antiques | [dasgoldundantikhaus.de] |
-| Pala Realty | Real Estate | [pala-real-estate.com] |
+| Krüershof Digital | Germany · Web Design Agency | [kruershof-digital.de] |
+| Autocenter Mülheim Göksu | Germany · Automotive | [ac-o.de] |
+| Dachdecker Wittler | Germany · Roofing & Local SEO | [dachdecker-wittler.de] |
+| Smaragdblüte | Germany · Travel Tech | [smaragdbluete.de] |
+| Schweriner Goldankauf | Germany · Buy & Sell | [schweriner-goldankauf.de] |
+| Steven Noora | Philippines · Portfolio | [stevennoora.pages.dev] |
+| NP Trucks | Germany · Automotive | [np-trucks.de] |
+| Renate Reimann Energiemedizin | Germany · Health | [renatereimann.de] |
+| ARTWussow | Germany · Art & Gallery | [artwussow.de] |
+| FlashyVendor | USA · Jewelry | [flashyvendor.com] |
+| PALA Consulting Group | Germany · Business Consulting | [palagroup.de] |
+| Dietz Webdesign | Germany · Web Design Agency | [dietz-webdesign.de] |
+| Das Gold und Antikhaus | Germany · Gold & Antiques | [dasgoldundantikhaus.de] |
+| Pala Realty | Germany · Real Estate | [pala-real-estate.com] |
 
 ## Systems
 
