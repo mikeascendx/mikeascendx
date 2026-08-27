@@ -12,6 +12,44 @@ AI operator and software builder in Manila. I design, build, and ship business w
 
 Full case list on the [portfolio].
 
+```mermaid
+flowchart LR
+    john["John Mike Asuncion<br/><i>AI Operator · Software Builder</i>"]
+    kruershof["Krüershof Digital<br/><i>Germany · Web Design Agency</i>"]
+    independent["Independent Work"]
+    dietz["Dietz Webdesign<br/><i>Predecessor · Original agency</i>"]
+
+    john --> kruershof
+    john --> independent
+    john --> dietz
+    dietz -.-> kruershof
+
+    kruershof --> autocenter["Autocenter Mülheim Göksu"]
+    kruershof --> dachdecker["Dachdecker Wittler"]
+    kruershof --> smaragd["Smaragdblüte"]
+    kruershof --> schweriner["Schweriner Goldankauf"]
+    kruershof --> nptrucks["NP Trucks"]
+    kruershof --> renate["Renate Reimann Energiemedizin"]
+    kruershof --> artwussow["ARTWussow"]
+    kruershof --> pala["PALA Consulting Group"]
+    kruershof --> goldantik["Das Gold und Antikhaus"]
+    kruershof --> realty["Pala Realty"]
+
+    independent --> steven["Steven Noora<br/><i>Philippines · Portfolio</i>"]
+    independent --> flashy["FlashyVendor<br/><i>USA · Jewelry</i>"]
+
+    classDef root fill:#f5f5f5,stroke:#111111,color:#111111,stroke-width:2px
+    classDef branch fill:#bdbdbd,stroke:#111111,color:#111111,stroke-width:2px
+    classDef project fill:#171717,stroke:#8b8b8b,color:#f5f5f5
+    class john root
+    class kruershof,independent branch
+    class dietz,autocenter,dachdecker,smaragd,schweriner,nptrucks,renate,artwussow,pala,goldantik,realty,steven,flashy project
+    linkStyle default stroke:#8b8b8b
+```
+
+<details>
+<summary><strong>Project index and live links</strong></summary>
+
 | Project | Type | Live |
 | --- | --- | --- |
 | Krüershof Digital | Germany · Web Design Agency | [kruershof-digital.de] |
@@ -29,6 +67,8 @@ Full case list on the [portfolio].
 | Das Gold und Antikhaus | Germany · Gold & Antiques | [dasgoldundantikhaus.de] |
 | Pala Realty | Germany · Real Estate | [pala-real-estate.com] |
 
+</details>
+
 ## Systems
 
 **[Krüershof Workflow System]** — A 36-node production workflow governing client intake, routing, quality control, and delivery.
@@ -37,15 +77,9 @@ Full case list on the [portfolio].
 
 ## GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikeascendx&amp;theme=github_dark&amp;title_color=FFFFFF&amp;text_color=FFFFFF&amp;bg_color=000000&amp;border_color=000000&amp;icon_color=FFFFFF"
-      alt="GitHub Stats"
-      width="420"
-    />
-  </a>
-</p>
+| Building | GitHub Streak |
+| :---: | :---: |
+| <img src="https://user-images.githubusercontent.com/74038190/212907120-c72ded50-c4ef-4d96-8a23-e4b69757a907.jpg" alt="Developer at work" width="260" /> | <img src="https://camo.githubusercontent.com/8778ac1f5cb4456a2cd55438fd4f62d5b6d7c3dc2ab44549b1a9b50c08a40386/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d696b65617363656e6478267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" alt="GitHub Streak" width="500" /> |
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" alt="" />
 
