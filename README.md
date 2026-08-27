@@ -1,10 +1,14 @@
-<!-- markdownlint-disable MD013 MD033 -->
+<!-- markdownlint-disable MD013 MD033 MD041 -->
 
-# John Mike Asuncion
-
-AI operator and software builder in Manila. I design, build, and ship business web solutions and production AI systems.
-
-[Portfolio] / [Email] / [X/Twitter][x-profile]
+<p align="center">
+  <a href="https://mikeascend.pages.dev">
+    <img
+      src="./assets/portfolio-hero.png"
+      alt="John Mike's developer workspace — visit the portfolio"
+      width="100%"
+    />
+  </a>
+</p>
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" alt="" />
 
@@ -47,9 +51,6 @@ flowchart LR
     linkStyle default stroke:#8b8b8b
 ```
 
-<details>
-<summary><strong>Project index and live links</strong></summary>
-
 | Project | Type | Live |
 | --- | --- | --- |
 | Krüershof Digital | Germany · Web Design Agency | [kruershof-digital.de] |
@@ -66,8 +67,6 @@ flowchart LR
 | Dietz Webdesign | Germany · Web Design Agency | [dietz-webdesign.de] |
 | Das Gold und Antikhaus | Germany · Gold & Antiques | [dasgoldundantikhaus.de] |
 | Pala Realty | Germany · Real Estate | [pala-real-estate.com] |
-
-</details>
 
 ## Systems
 
@@ -100,8 +99,6 @@ flowchart LR
 </p>
 
 [Portfolio]: https://mikeascend.pages.dev
-[Email]: mailto:johnmikeasuncion17@gmail.com
-[x-profile]: https://x.com/mikeascendx
 [kruershof-digital.de]: https://www.kruershof-digital.de/
 [ac-o.de]: https://www.ac-o.de/
 [dachdecker-wittler.de]: https://www.dachdecker-wittler.de/
