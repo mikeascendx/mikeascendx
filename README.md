@@ -36,7 +36,7 @@ Open a thumbnail for the full capture. LeadUpFront uses its landing and sign-in 
       </tr>
       <tr>
         <td><a href="./assets/projects/rawlensph-customer-portal.webp"><img src="./assets/projects/rawlensph-customer-portal.webp" alt="RawLens PH Customer Portal preview" width="160" /></a></td>
-        <td align="left"><strong>RawLens PH Customer Portal</strong><br/><sub>Maintenance · Earlier capture</sub></td>
+        <td align="left"><strong>RawLens PH Customer Portal</strong></td>
         <td align="left">Philippines · Customer Booking Portal</td>
         <td align="left"><a href="https://www.instagram.com/rawlensph/">Private · Client profile</a></td>
       </tr>
