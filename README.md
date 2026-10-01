@@ -14,8 +14,6 @@
 
 ## Business Web Solutions
 
-Open a thumbnail for the full capture. LeadUpFront uses its landing and sign-in page; the other projects retain their original covers.
-
 <div align="center">
   <table align="center">
     <thead>
