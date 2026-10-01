@@ -12,19 +12,9 @@
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" alt="" />
 
-## LeadUpFront Workbench
-
-A connected business workspace I adapted from AFFiNE and BlockSuite, bringing documents, Canvas editing, database views and workspace organization together with React, TypeScript, Yjs and Supabase.
-
-[![LeadUpFront Page view with fictional operations records](./assets/projects/leadupfront-page.webp)](https://app.leadupfront.com)
-
-*Local browser demo with fictional content. Hosted workspace access requires sign-in.*
-
-**[Open LeadUpFront](https://app.leadupfront.com)** · **[Portfolio and resume](https://mikeascend.pages.dev)**
-
 ## Business Web Solutions
 
-Open a thumbnail for the full capture. RawLens operations shows the actual dispatch component with sample bookings; its customer portal retains an earlier landing-page capture while under maintenance. Dietz preserves the original agency website.
+Open a thumbnail for the full capture. LeadUpFront uses its landing and sign-in page; the other projects retain their original covers.
 
 <div align="center">
   <table align="center">
@@ -33,14 +23,14 @@ Open a thumbnail for the full capture. RawLens operations shows the actual dispa
     </thead>
     <tbody>
       <tr>
-        <td><a href="./assets/projects/leadupfront-page.webp"><img src="./assets/projects/leadupfront-page.webp" alt="LeadUpFront Workbench preview" width="160" /></a></td>
-        <td align="left"><strong>LeadUpFront Workbench</strong><br/><sub>Sample workspace</sub></td>
+        <td><a href="./assets/projects/leadupfront-login.webp"><img src="./assets/projects/leadupfront-login.webp" alt="LeadUpFront landing and sign-in page" width="160" /></a></td>
+        <td align="left"><strong>LeadUpFront Workbench</strong></td>
         <td align="left">Philippines · Business Systems Workbench</td>
         <td align="left"><a href="https://app.leadupfront.com">Private · Sign in</a></td>
       </tr>
       <tr>
         <td><a href="./assets/projects/rawlensph-operations-platform.webp"><img src="./assets/projects/rawlensph-operations-platform.webp" alt="RawLens PH Operations Platform preview" width="160" /></a></td>
-        <td align="left"><strong>RawLens PH Operations Platform</strong><br/><sub>Dispatch demo · Sample bookings</sub></td>
+        <td align="left"><strong>RawLens PH Operations Platform</strong></td>
         <td align="left">Philippines · Business Operations System</td>
         <td align="left"><a href="https://www.instagram.com/rawlensph/">Private · Client profile</a></td>
       </tr>
@@ -143,12 +133,13 @@ flowchart LR
     john["John Mike Asuncion<br/><i>AI Operator · Software Builder</i>"]
     leadupfront["LeadUpFront<br/><i>Philippines · Growth & Business Development Systems Agency</i>"]
     rawlens["RawLens PH<br/><i>Philippines · Photography</i>"]
+    workbench["LeadUpFront Workbench<br/><i>Page · Canvas · Database views</i>"]
     kruershof["Krüershof Digital<br/><i>Germany · Web Design Agency</i>"]
     independent["Independent Work"]
     dietz["Dietz Webdesign<br/><i>Predecessor · Original agency</i>"]
 
     john --> leadupfront
-    leadupfront --> workbench["LeadUpFront Workbench<br/><i>Page · Canvas · Database views</i>"]
+    leadupfront --> workbench
     leadupfront --> rawlens
     rawlens --> operations["Operations Platform<br/><i>Private business system</i>"]
     rawlens --> portal["Customer Portal<br/><i>Private booking system</i>"]
