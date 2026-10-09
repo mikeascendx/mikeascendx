@@ -17,107 +17,90 @@
 <div align="center">
   <table align="center">
     <thead>
-      <tr><th>Preview</th><th>Project</th><th>Type</th><th>Visit</th></tr>
+      <tr><th>Project</th><th>Type</th><th>Visit</th></tr>
     </thead>
     <tbody>
       <tr>
-        <td><a href="./assets/projects/leadupfront-login.webp"><img src="./assets/projects/leadupfront-login.webp" alt="LeadUpFront landing and sign-in page" width="160" /></a></td>
         <td align="left"><strong>LeadUpFront Workbench</strong></td>
         <td align="left">Philippines · Business Systems Workbench</td>
         <td align="left"><a href="https://app.leadupfront.com">Private · Sign in</a></td>
       </tr>
       <tr>
-        <td><a href="./assets/projects/rawlensph-operations-platform.webp"><img src="./assets/projects/rawlensph-operations-platform.webp" alt="RawLens PH Operations Platform preview" width="160" /></a></td>
         <td align="left"><strong>RawLens PH Operations Platform</strong></td>
         <td align="left">Philippines · Business Operations System</td>
         <td align="left"><a href="https://www.instagram.com/rawlensph/">Private · Client profile</a></td>
       </tr>
       <tr>
-        <td><a href="./assets/projects/rawlensph-customer-portal.webp"><img src="./assets/projects/rawlensph-customer-portal.webp" alt="RawLens PH Customer Portal preview" width="160" /></a></td>
         <td align="left"><strong>RawLens PH Customer Portal</strong></td>
         <td align="left">Philippines · Customer Booking Portal</td>
         <td align="left"><a href="https://www.instagram.com/rawlensph/">Private · Client profile</a></td>
       </tr>
       <tr>
-        <td><a href="./assets/projects/kruershof.webp"><img src="./assets/projects/kruershof.webp" alt="Krüershof Digital preview" width="160" /></a></td>
         <td align="left"><strong>Krüershof Digital</strong></td>
         <td align="left">Germany · Web Design Agency</td>
         <td align="left"><a href="https://www.kruershof-digital.de/">Visit website</a></td>
       </tr>
       <tr>
-        <td><a href="./assets/projects/pala-group.webp"><img src="./assets/projects/pala-group.webp" alt="PALA Consulting Group preview" width="160" /></a></td>
         <td align="left"><strong>PALA Consulting Group</strong></td>
         <td align="left">Germany · Business Consulting</td>
         <td align="left"><a href="https://palagroup.de">Visit website</a></td>
       </tr>
       <tr>
-        <td><a href="./assets/projects/pala-realty.webp"><img src="./assets/projects/pala-realty.webp" alt="Pala Realty preview" width="160" /></a></td>
         <td align="left"><strong>Pala Realty</strong></td>
         <td align="left">Germany · Real Estate</td>
         <td align="left"><a href="https://pala-real-estate.com">Visit website</a></td>
       </tr>
       <tr>
-        <td><a href="./assets/projects/smaragdbluete.webp"><img src="./assets/projects/smaragdbluete.webp" alt="Smaragdblüte preview" width="160" /></a></td>
         <td align="left"><strong>Smaragdblüte</strong></td>
         <td align="left">Germany · Travel Tech</td>
         <td align="left"><a href="https://www.smaragdbluete.de/">Visit website</a></td>
       </tr>
       <tr>
-        <td><a href="./assets/projects/artwussow.webp"><img src="./assets/projects/artwussow.webp" alt="ARTWussow preview" width="160" /></a></td>
         <td align="left"><strong>ARTWussow</strong></td>
         <td align="left">Germany · Art &amp; Gallery</td>
         <td align="left"><a href="https://www.artwussow.de">Visit website</a></td>
       </tr>
       <tr>
-        <td><a href="./assets/projects/autocenter-muelheim-goeksu.webp"><img src="./assets/projects/autocenter-muelheim-goeksu.webp" alt="Autocenter Mülheim Göksu preview" width="160" /></a></td>
         <td align="left"><strong>Autocenter Mülheim Göksu</strong></td>
         <td align="left">Germany · Automotive</td>
         <td align="left"><a href="https://www.ac-o.de/">Visit website</a></td>
       </tr>
       <tr>
-        <td><a href="./assets/projects/flashyvendor.webp"><img src="./assets/projects/flashyvendor.webp" alt="FlashyVendor preview" width="160" /></a></td>
         <td align="left"><strong>FlashyVendor</strong></td>
         <td align="left">USA · Jewelry</td>
         <td align="left"><a href="https://flashyvendor.com">Visit website</a></td>
       </tr>
       <tr>
-        <td><a href="./assets/projects/goldankauf.webp"><img src="./assets/projects/goldankauf.webp" alt="Schweriner Goldankauf preview" width="160" /></a></td>
         <td align="left"><strong>Schweriner Goldankauf</strong></td>
         <td align="left">Germany · Buy &amp; Sell</td>
         <td align="left"><a href="https://schweriner-goldankauf.de">Visit website</a></td>
       </tr>
       <tr>
-        <td><a href="./assets/projects/dachdecker-wittler-hamburg.webp"><img src="./assets/projects/dachdecker-wittler-hamburg.webp" alt="Dachdecker Wittler preview" width="160" /></a></td>
         <td align="left"><strong>Dachdecker Wittler</strong></td>
         <td align="left">Germany · Roofing &amp; Local SEO</td>
         <td align="left"><a href="https://www.dachdecker-wittler.de/">Visit website</a></td>
       </tr>
       <tr>
-        <td><a href="./assets/projects/reimann.webp"><img src="./assets/projects/reimann.webp" alt="Renate Reimann Energiemedizin preview" width="160" /></a></td>
         <td align="left"><strong>Renate Reimann Energiemedizin</strong></td>
         <td align="left">Germany · Health</td>
         <td align="left"><a href="https://www.renatereimann.de">Visit website</a></td>
       </tr>
       <tr>
-        <td><a href="./assets/projects/nptrucks.webp"><img src="./assets/projects/nptrucks.webp" alt="NP Trucks preview" width="160" /></a></td>
         <td align="left"><strong>NP Trucks</strong></td>
         <td align="left">Germany · Automotive</td>
         <td align="left"><a href="https://www.np-trucks.de">Visit website</a></td>
       </tr>
       <tr>
-        <td><a href="./assets/projects/dietz.webp"><img src="./assets/projects/dietz.webp" alt="Dietz Webdesign (v1 of Krüershof Digital) preview" width="160" /></a></td>
         <td align="left"><strong>Dietz Webdesign (v1 of Krüershof Digital)</strong></td>
         <td align="left">Germany · Web Design Agency</td>
         <td align="left"><a href="https://www.dietz-webdesign.de/">Visit website</a></td>
       </tr>
       <tr>
-        <td><a href="./assets/projects/dasgoldundantikhaus.webp"><img src="./assets/projects/dasgoldundantikhaus.webp" alt="Das Gold und Antikhaus preview" width="160" /></a></td>
         <td align="left"><strong>Das Gold und Antikhaus</strong></td>
         <td align="left">Germany · Gold &amp; Antiques</td>
         <td align="left"><a href="https://dasgoldundantikhaus.de">Visit website</a></td>
       </tr>
       <tr>
-        <td><a href="./assets/projects/stevennoora.webp"><img src="./assets/projects/stevennoora.webp" alt="Steven Noora preview" width="160" /></a></td>
         <td align="left"><strong>Steven Noora</strong></td>
         <td align="left">Philippines · Portfolio</td>
         <td align="left"><a href="https://stevennoora.pages.dev">Visit website</a></td>
