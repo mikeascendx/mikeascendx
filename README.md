@@ -41,6 +41,11 @@
         <td align="left"><a href="https://www.kruershof-digital.de/">Visit website</a></td>
       </tr>
       <tr>
+        <td align="left"><strong>Orthopädiezentrum Magdeburg</strong><br/><sub>Contributed homepage redesign and Gutenberg migration</sub></td>
+        <td align="left">Germany · Healthcare · WordPress</td>
+        <td align="left"><a href="https://orthozentrum-magdeburg.de/">Visit website</a> · <a href="https://www.kruershof-digital.de/referenzen/orthozentrum-magdeburg/">Case study</a></td>
+      </tr>
+      <tr>
         <td align="left"><strong>PALA Consulting Group</strong></td>
         <td align="left">Germany · Business Consulting</td>
         <td align="left"><a href="https://palagroup.de">Visit website</a></td>
@@ -126,6 +131,7 @@ flowchart LR
     rawlens --> portal["Customer Portal<br/><i>Private booking system</i>"]
 
     john --> kruershof
+    kruershof --> orthozentrum["Orthopädiezentrum Magdeburg"]
     kruershof --> pala["PALA Consulting Group"]
     kruershof --> realty["Pala Realty"]
     kruershof --> smaragd["Smaragdblüte"]
@@ -149,7 +155,7 @@ flowchart LR
     classDef project fill:#171717,stroke:#8b8b8b,color:#f5f5f5
     class john root
     class kruershof,leadupfront,independent,rawlens branch
-    class dietz,autocenter,dachdecker,smaragd,schweriner,nptrucks,renate,artwussow,pala,goldantik,realty,steven,flashy,operations,portal,workbench project
+    class dietz,orthozentrum,autocenter,dachdecker,smaragd,schweriner,nptrucks,renate,artwussow,pala,goldantik,realty,steven,flashy,operations,portal,workbench project
     linkStyle default stroke:#8b8b8b
 ```
 
