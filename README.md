@@ -41,9 +41,9 @@
         <td align="left"><a href="https://www.kruershof-digital.de/">Visit website</a></td>
       </tr>
       <tr>
-        <td align="left"><strong>Orthopädiezentrum Magdeburg</strong><br/><sub>Contributed homepage redesign and Gutenberg migration</sub></td>
-        <td align="left">Germany · Healthcare · WordPress</td>
-        <td align="left"><a href="https://orthozentrum-magdeburg.de/">Visit website</a> · <a href="https://www.kruershof-digital.de/referenzen/orthozentrum-magdeburg/">Case study</a></td>
+        <td align="left"><strong>Orthopädiezentrum Magdeburg</strong></td>
+        <td align="left">Germany · Healthcare</td>
+        <td align="left"><a href="https://orthozentrum-magdeburg.de/">Visit website</a></td>
       </tr>
       <tr>
         <td align="left"><strong>PALA Consulting Group</strong></td>
